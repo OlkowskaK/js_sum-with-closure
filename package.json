@@ -21,7 +21,8 @@
     "@mate-academy/scripts": "^2.1.1",
     "eslint": "^9.32.0",
     "eslint-plugin-jest": "^29.0.1",
-    "jest": "^30.0.5"
+    "jest": "^30.0.5",
+    "typescript": "^5.9.2"
   },
   "mateAcademy": {
     "projectType": "javascript"
